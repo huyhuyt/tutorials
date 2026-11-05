@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10c68c73-5ed1-4d7b-b0b8-9fa4ab8dee9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../marker-interface/src/main/java/org/kevin/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../marker-interface/src/main/java/org/kevin/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/springboot3-for-beginner/dev-spring-boot/mycoolapp/src/main/java/com/luv2code/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-plugin-example/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-plugin-example/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-plugin-example/target/classes/org/example/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-plugin-example/target/classes/org/example/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python-tutorials/read_log_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-tutorials/read_log_files.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ryBhgVUSlzgnxbqWKvuc6BPXjD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kevinnguyen/Coding/Java Tutorials/java-stream"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10c68c73-5ed1-4d7b-b0b8-9fa4ab8dee9b" name="Changes" comment="" />
+      <created>1737521554134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737521554134</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+.images 
+  {
+    width:        900px;
+    height:       540px;
+    background:   transparent;
+    border:       0px;
+  }
+
+.images div 
+  {
+    width:        900px;
+    height:       540px;
+    margin:       0px;
+    padding:      0px;
+  }
+
+.images div img 
+  {
+    display:      block;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
+.slidetabs 
+  {
+    margin-left:  450px;
+    margin-bottom:40px;
+  }
+
+.slidetabs a 
+  {
+    background:   url($mediaLink(relativePath='/jquerytools/1.2.6/img/scrollable/arrow/navigator.png')$) 0 0 no-repeat;
+  }
+
+.hero-unit p
+  {
+    text-align:   center;
+  }

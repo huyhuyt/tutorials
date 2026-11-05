@@ -1,0 +1,122 @@
+Your thinking is actually good\! You're thinking about how to represent the data, not just how to calculate the average. That's an important programming skill.
+
+Your proposed design is:
+
+- Input: number of students
+- Input: student ID
+- Input: list of exam scores
+- Data structure: a dictionary where the key is the student ID and the value is an array of scores
+
+Let's walk through how to decide whether this is the right design.
+
+## 1. Your data structure
+
+For example, in Python, your dictionary could look like this:
+
+python
+
+```
+students = {
+    1001: [80.0, 90.0, 85.0, 75.0, 70.0],
+    1002: [60.0, 70.0, 80.0, 90.0, 100.0],
+    1003: [95.0, 85.0, 90.0, 80.0, 100.0]
+}
+```
+
+### How your dictionary works
+
+1001
+
+`[80, 90, 85, 75, 70]`
+
+1002
+
+`[60, 70, 80, 90, 100]`
+
+Each student ID maps to that student's five exam scores.
+
+This is a perfectly reasonable design if student IDs are part of the problem requirements.
+
+## 2. But what does the problem actually require?
+
+When reading a programming problem, separate the requirements into three categories.
+
+| Category | From this problem |
+| --- | --- |
+| Input data | 30 students, each with 5 exam scores |
+| Processing | Calculate the average of each student's scores |
+| Output | Display each student's average |
+
+Notice that the problem does not explicitly mention student IDs or require looking up students by ID.
+
+So your dictionary is a valid design choice, but it may be more complex than necessary.
+
+- If student IDs are given or required: A dictionary is useful.
+- If students are identified only by their position in the input: A list of lists or a 2D array is sufficient.
+- If the number of students is fixed at 30: You can use a fixed-size array in languages such as C++.
+
+## 3. How I would design the solution in Python
+
+Your approach works well if you want to keep student IDs.
+
+python
+
+```
+def calculate_averages(students):
+    averages = {}
+
+    for student_id, scores in students.items():
+        averages[student_id] = sum(scores) / len(scores)
+
+    return averages
+```
+
+Example usage:
+
+python
+
+```
+students = {
+    1001: [80, 90, 85, 75, 70],
+    1002: [60, 70, 80, 90, 100]
+}
+
+averages = calculate_averages(students)
+
+for student_id, average in averages.items():
+    print(f"Student {student_id}: {average:.2f}")
+```
+
+Output:
+
+text
+
+```
+Student 1001: 80.00
+Student 1002: 80.00
+```
+
+Here, the function signature is:
+
+python
+
+```
+def calculate_averages(students: dict[int, list[float]]) -> dict[int, float]:
+```
+
+The type annotation describes a dictionary mapping each integer student ID to a list of floating-point scores, returning a dictionary mapping each ID to its average.
+
+## 4. The key lesson: don't confuse input format with data structure
+
+Your thought process is good, but there's one improvement I recommend.
+
+When you see a problem, ask these questions in order:
+
+1. What information do I receive? — 30 students and 5 scores per student.
+2. What do I need to calculate? — One average per student.
+3. What must I produce? — Display 30 averages.
+4. What data structure best supports the requirements? — A dictionary if IDs matter; a list or 2D array otherwise.
+
+You don't have to use a dictionary just because you're thinking of a student ID. The best data structure depends on what operations the problem requires.
+
+One question to test your understanding: If the problem changes to “Given a student ID, find that student's average score,” would your dictionary design become more useful? Why?

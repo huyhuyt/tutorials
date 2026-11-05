@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- <bean id="mathObj" class="com.kevin.loosecoupling.MathCheat">
+    </bean>
+    <bean id="stu" class="com.kevin.loosecoupling.Student">
+      <property name="id" value = "1001"/>
+      <property name="mc" ref="mathObj"/>
+    </bean> -->
+    <bean id="heart" class="com.kevin.loosecoupling.Heart">
+    </bean>
+    <bean id="humanObj" class="com.kevin.loosecoupling.Human" autowire="byName">
+      <!-- <property name="heart" ref="heartObj"/> -->
+    </bean>
+
+
+</beans>

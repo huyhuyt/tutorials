@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties version="1.0">
+    <property name="creationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="description">
+        <value>Home</value>
+    </property>
+    <property name="latestModificationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="navigationLabel">
+        <value>Home</value>
+    </property>
+    <property name="title">
+        <value>Home</value>
+    </property>
+    <properties id="container">
+        <property name="class">
+            <value>container</value>
+        </property>
+    </properties>
+    <properties id="base">
+        <property name="description">
+            <value>Description</value>
+        </property>
+        <property name="screenStyleSheets">
+            <values>
+                <value>http://fonts.googleapis.com/css?family=Puritan:400,700,400italic,700italic</value>
+                <value>/bootstrap/1.4.0/bootstrap.css</value>
+                <value>/css/bootstrap-override.css</value>
+                <value>/css/bootstrap-override-home.css</value>
+	        <value>/jquerytools/1.2.6/tabs-slideshow.css</value>
+                <value>/css/tabs-slideshow-override.css</value>
+            </values>
+        </property>
+
+        <property name="scripts">
+            <values>
+	        <value>/jquerytools/1.2.6/jquery.tools.min.js</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="hero">
+        <property name="class">
+            <value>hero-unit</value>
+        </property>
+        <property name="contents">
+            <values>
+                <value>/Hero</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="row1">
+        <property name="class">
+            <value>row</value>
+        </property>
+        <property name="contents">
+            <values>
+                <value>/Fragments/Lorem Ipsum/1</value>
+                <value>/Fragments/Lorem Ipsum/2</value>
+                <value>/Fragments/Lorem Ipsum/3</value>
+            </values>
+        </property>
+        <property name="wrapperTemplate">
+            <value>/Templates/Bootstrap/1.4.0/3columns</value>
+        </property>
+    </properties>
+    <properties id="row2">
+        <property name="class">
+            <value>row</value>
+        </property>
+        <property name="contents">
+            <values>
+                <value>/Fragments/Lorem Ipsum/1</value>
+                <value>/Fragments/Lorem Ipsum/2</value>
+            </values>
+        </property>
+        <property name="wrapperTemplate">
+            <value>/Templates/Bootstrap/1.4.0/2columns</value>
+        </property>
+    </properties>
+    <properties id="row3">
+        <property name="class">
+            <value>row</value>
+        </property>
+        <property name="contents">
+            <values>
+                <value>/Fragments/Lorem Ipsum/1</value>
+                <value>/Fragments/Lorem Ipsum/2</value>
+                <value>/Fragments/Lorem Ipsum/3</value>
+                <value>/Fragments/Lorem Ipsum/4</value>
+            </values>
+        </property>
+        <property name="wrapperTemplate">
+            <value>/Templates/Bootstrap/1.4.0/4columns</value>
+        </property>
+    </properties>
+</properties>

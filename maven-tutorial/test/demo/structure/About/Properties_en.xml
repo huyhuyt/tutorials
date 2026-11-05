@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties version="1.0">
+    <property name="creationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="description">
+        <value>About</value>
+    </property>
+    <property name="exposedUri">
+        <value>about</value>
+    </property>
+    <property name="latestModificationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="navigationLabel">
+        <value>About</value>
+    </property>
+    <property name="title">
+        <value>About</value>
+    </property>
+    <properties id="main">
+        <property name="contents">
+            <values>
+                <value>/About</value>
+            </values>
+        </property>
+    </properties>
+</properties>

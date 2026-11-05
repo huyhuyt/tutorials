@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties version="1.0">
+    <property name="creationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="description">
+        <value>kevin RSS Feed</value>
+    </property>
+    <property name="exposedUri">
+        <value>feed.rss</value>
+    </property>
+    <property name="latestModificationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="navigationLabel">
+        <value>Blog Feed</value>
+    </property>
+    <property name="publishingDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="title">
+        <value>kevin RSS Feed</value>
+    </property>
+    <properties id="base">
+        <property name="contents">
+            <values>
+                <value>/Blog</value>
+            </values>
+        </property>
+        <property name="copyright">
+            <value>(C) Copyright 2012, by kevin</value>
+        </property>
+        <property name="creator">
+            <value>kevin</value>
+        </property>
+        <property name="description">
+            <value>kevin blog</value>
+        </property>
+        <property name="link">
+            <value>http://kevin.com/blog/</value>
+        </property>
+        <property name="maxItems">
+            <value>30</value>
+        </property>
+        <property name="title">
+            <value>kevin blog</value>
+        </property>
+    </properties>
+</properties>

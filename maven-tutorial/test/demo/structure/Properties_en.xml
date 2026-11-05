@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties version="1.0">
+    <property name="creationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="description">
+        <value>Home</value>
+    </property>
+    <property name="latestModificationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="navigationLabel">
+        <value>Home</value>
+    </property>
+    <property name="title">
+        <value>kevin</value>
+    </property>
+    <properties id="base">
+        <property name="inlinedScripts">
+            <values>
+                <value>/Fragments/Google Analytics</value>
+            </values>
+        </property>
+        <property name="screenStyleSheets">
+            <values>
+                <value>http://fonts.googleapis.com/css?family=Puritan:400,700,400italic,700italic</value>
+                <value>/bootstrap/1.4.0/bootstrap.css</value>
+                <value>/google-code-prettify/1-jun-2011/prettify.css</value>
+                <value>/css/bootstrap-override.css</value>
+                <value>/css/google-code-prettify-override.css</value>
+                <value>/css/ohloh-override.css</value>
+            </values>
+        </property>
+        <property name="rssFeeds">
+            <values>
+                <value>/Blog/RSS Feed</value>
+            </values>
+        </property>
+        <property name="scripts">
+            <values>
+                <value>/google-code-prettify/1-jun-2011/prettify.js</value>
+            </values>
+        </property>
+        <property name="template">
+            <value>/Templates/Bootstrap/1.4.0</value>
+        </property>
+        <property name="titlePrefix">
+            <value>kevin - </value>
+        </property>
+    </properties>
+    <properties id="rssPanel">
+        <property name="contents">
+            <values>
+                <value>/Fragments/Feed Panel</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="topbar">
+        <property name="template">
+            <value>/Templates/Bootstrap/1.4.0/topbar</value>
+        </property>
+        <property name="links">
+            <values>
+                <value>/</value>
+                <value>/About</value>
+                <value>/Blog</value>
+                <value>/Contacts</value>
+                <value>/Download</value>
+                <value>/License</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="container">
+        <property name="class">
+            <value>container-fluid</value>
+        </property>
+    </properties>
+    <properties id="sidebar">
+        <property name="class">
+            <value>sidebar</value>
+        </property>
+    </properties>
+    <properties id="well">
+        <property name="class">
+            <value>well</value>
+        </property>
+    </properties>
+    <properties id="ohlohPanel">
+        <property name="contents">
+            <values>
+                <value>/Fragments/Ohloh</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="content">
+        <property name="class">
+            <value>content</value>
+        </property>
+    </properties>
+    <properties id="addthis">
+        <property name="contents">
+            <values>
+                <value>/Fragments/AddThis</value>
+            </values>
+        </property>
+    </properties>
+    <properties id="copyright">
+        <property name="contents">
+            <values>
+                <value>/Fragments/Copyright</value>
+            </values>
+        </property>
+    </properties>
+</properties>

@@ -3,6 +3,10 @@ package com.example.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.example.course.Family;
+import com.example.course.MathTeacher;
+import com.example.course.Teacher;
+
 @SpringBootApplication
 public class DemoApplication {
 
@@ -13,6 +17,10 @@ public class DemoApplication {
 			
 
 		}
+		//Family f = new Family();
+		Teacher mathTeacher = new MathTeacher(new Family());
+		mathTeacher.teach();
 	}
 
 }
+

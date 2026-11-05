@@ -1,0 +1,5 @@
+@Component
+
+Class config
+
+AnnotationConfigApplicationContext

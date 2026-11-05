@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<components version="1.0">
+    <component type="http://northernwind.tidalwave.it/component/RssFeed/#v1.0" id="base"/>
+</components>

@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/kevinnguyen/Downloads/commons-logging-1.2/**/*.jar",
+        "/Users/kevinnguyen/Downloads/spring-framework-5.3.24/**/*.jar",
+        "/Users/kevinnguyen/Downloads/lombok.jar"
+    ]
+}

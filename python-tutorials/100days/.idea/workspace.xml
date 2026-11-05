@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c96d8ac-d2cc-441a-8f68-88976832a63d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/Deep-seek/src/main/java/org/kevin/Deep_seek/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/Deep-seek/src/main/java/org/kevin/Deep_seek/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/alice/AliceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/kim/albert/Albert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/bean-life-cycle/src/main/java/org/kim/albert/Kim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/demo-inject/src/main/java/org/kevin/EmailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/demo-inject/src/main/java/org/kevin/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/demo-inject/src/main/java/org/kevin/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/demo-inject/src/test/java/EmailServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/com/emc/brs/commons/test/AbstractSpringTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/com/emc/brs/commons/test/AbstractTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restclient/RestLoginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restclient/internal/LoginInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/RestDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/AbstractRestDaoExtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/EcdmLoginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/EcdmRestDaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoNonCompatibleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoRemoteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/ext/internal/EcdmRestDaoFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/restdao/internal/RestDaoFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/svcs/EcdmNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/svcs/internal/EcdmNodeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/svcs/internal/SantoriniNodeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/ecdmit/svcs/internal/SwcEcdmNodeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/org/kevin/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/common/DiscoveryRecoverTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/common/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/coreecdmapi/AuthServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/coreecdmapi/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/coreecdmapi/EcdmRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/coreecdmapi/internal/AuthServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/coreecdmapi/internal/BaseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/recovery/A2oRestoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/recovery/RecoverTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/ecdm-bean-life-cycle/src/main/java/vmdmit/it/recovery/RecoveryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/FactoryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/MotorBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/MotorBikeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-design-patern/src/main/java/org/kevin/MotorVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/ClassWithStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/MotorCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/MotorCycleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/MotorVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/MotorVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/TrySubclassOfClasswStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/factory-method/src/main/java/org/kevin/XeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/generic-template/src/main/java/org/kevin/PrintThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/head-first-design-pattern-strategy/src/main/java/org/kevin/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/head-first-design-pattern-strategy/src/main/java/org/kevin/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/head-first-design-pattern-strategy/src/main/java/org/kevin/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/head-first-design-pattern-strategy/src/main/java/org/kevin/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/marker-interface/src/main/java/org/kevin/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/marker-interface/src/main/java/org/kevin/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/marker/src/main/java/org/kevin/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/marker/src/main/java/org/kevin/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/marker/src/main/java/org/kevin/Triagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/EcdmLoginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoNonCompatibleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/ecdmit/restdao/ext/internal/EcdmLoginInfoRemoteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/org/kevin/A2oRestoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/org/kevin/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/org/kevin/DiscoveryRecoveryTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/org/kevin/RecoveryTestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/org/kevin/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/vmdmit/it/storages/VMwareBaseUtilService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/java/vmdmit/it/storages/internal/VMwareBaseUtilServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-bean-creation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review-1/src/main/java/org/common/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review-1/src/main/java/org/common/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review-1/src/main/java/org/common/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review-1/src/main/java/org/common/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review-1/src/main/java/org/kevin/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review/src/main/java/org/common/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review/src/main/java/org/common/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review/src/main/java/org/common/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review/src/main/java/org/common/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java Tutorials/spring-di-review/src/main/java/org/family/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/add_dependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/adjacency_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/basic_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/birary_search_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/btsnode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/build_adjacency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/check_string_palindrom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/data_structure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/dfs_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/dfs_sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/dict_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/experiment_syntax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_2_consec_target_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_first_pattern" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_first_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_first_true.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_longest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_longest_substriing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_longest_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_max_sum_sub_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/find_sum_target_two_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/get_all_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/get_family_with_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/interview_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/local_global_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/max_consecutive_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/median_sol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/moving_slide_fix_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/recursive_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/remove_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/shortest_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/slide_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/sort_array_and_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/stack-queue-dic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/traversal_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/two_pointer_alg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice_interview/url_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../real-world-and-code/practice_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../real-world-and-code/project1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../real-world-and-code/project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../real-world-and-code/tree-dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../under_container/app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-1/src/main/java/org/kevin/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-1/src/main/java/org/kevin/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-1/src/main/resources/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/Att.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/java/org/kevin/TmobileImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../selenium-express/lesson8-2/src/main/resources/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/springboot3-for-beginner/dev-spring-boot/mycoolapp/src/main/java/com/luv2code/mycoolapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Tutorials/maven-plugin-example/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Tutorials/maven-plugin-example/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Tutorials/maven-plugin-example/target/classes/org/example/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Tutorials/maven-plugin-example/target/classes/org/example/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../maven-tutorial/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../read_log_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/../read_log_files.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3LM4yZh0QAecvHmbSYglbezi5P6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c96d8ac-d2cc-441a-8f68-88976832a63d" name="Changes" comment="" />
+      <created>1793250857231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793250857231</updated>
+    </task>
+    <servers />
+  </component>
+</project>

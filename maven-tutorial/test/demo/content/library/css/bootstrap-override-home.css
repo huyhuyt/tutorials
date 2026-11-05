@@ -1,0 +1,23 @@
+.btn.large
+  {
+    font-size:   0.7em;
+  }
+
+p 
+  {
+/*    color:       #808080;*/
+    font-size:   1em;
+    line-height: 1.230em;
+  }
+
+/* FIXME: workaround since the first item in the home gets h2 instead of h3 */
+div.row h2
+  {
+    font-size: 1.4em;
+  }
+
+div.row h3
+  {
+    font-size: 1.4em;
+  }
+

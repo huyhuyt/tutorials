@@ -1,0 +1,15 @@
+pre.prettyprint 
+  { 
+    background-color: rgb(245, 245, 245) !important;
+    border-color:     rgba(0, 0, 0, 0.149) !important;
+    border-style:     solid !important;
+    border-width:      1px !important;
+    margin-bottom:    30px !important;
+    margin-left:       0px !important;
+    margin-right:      0px !important;
+    margin-top:       30px !important;
+    padding-bottom:    8px !important;
+    padding-left:      8px !important;
+    padding-right:     8px !important;
+    padding-top:       8px !important;
+  }  

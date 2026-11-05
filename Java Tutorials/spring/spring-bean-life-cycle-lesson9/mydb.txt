@@ -1,0 +1,6 @@
+1	Abhilash	200.2	non-veg
+2	Priya	200.2	non-veg
+3	Ramya	900.2	veg
+4	Maggi	700.2	non-veg
+5	Praveen	600.2 	veg
+6	Sunil	19000.5	veg

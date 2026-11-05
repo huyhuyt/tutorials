@@ -1,0 +1,32 @@
+package org.kevin;
+import ecdmit.restdao.ext.internal.EcdmLoginInfoImpl;
+
+import org.springframework.beans.BeansException;
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.NoSuchBeanDefinitionException;
+import org.springframework.beans.factory.ObjectProvider;
+import org.springframework.beans.factory.config.AutowireCapableBeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.MessageSourceResolvable;
+import org.springframework.context.NoSuchMessageException;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.core.ResolvableType;
+import org.springframework.core.env.Environment;
+import org.springframework.core.io.Resource;
+import vmdmit.it.storages.internal.VMwareBaseUtilServiceImpl;
+
+import java.io.IOException;
+import java.lang.annotation.Annotation;
+import java.util.Locale;
+import java.util.Map;
+import java.util.Set;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
+//        VMwareBaseUtilServiceImpl vMwareBaseUtilServiceBean = ctx.getBean(VMwareBaseUtilServiceImpl.class);
+//        System.out.println(vMwareBaseUtilServiceBean.getName());
+        //vMwareBaseUtilServiceBean.info();
+    }
+}

@@ -1,0 +1,7 @@
+today is oct 23, 2026
+I have interview with hiring manager
+This will be remote coding 
+error if we don't speak slowly
+pass if we can speak slowly and clearly
+error if we dont say out loud
+pass if we can explain what data structure we can use

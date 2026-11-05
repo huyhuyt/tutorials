@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "project1",
+			"path": "project1"
+		},
+		{
+			"path": "project2"
+		},
+		{
+			"path": "project3"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <body>
+    <div class="images">
+      <div><img src="$mediaLink(relativePath='/screenshots/hero/ScreenShot1.png')$"/></div>
+      <div><img src="$mediaLink(relativePath='/screenshots/hero/ScreenShot2.png')$"/></div>
+      <div><img src="$mediaLink(relativePath='/screenshots/hero/ScreenShot3.png')$"/></div>
+      <div><img src="$mediaLink(relativePath='/screenshots/hero/ScreenShot4.png')$"/></div>
+    </div>
+    <div class="slidetabs"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a></div>
+    <div>
+      <p>This is a great project. <a href="$nodeLink(relativePath='/About')$" style="margin-left: 20px" class="btn primary">More
+          »</a> </p>
+    </div>
+    <script language="JavaScript">
+$(function() 
+  {
+    $(".slidetabs").tabs(".images > div", 
+      {
+        effect:       'fade',
+        fadeOutSpeed: 'slow',
+        rotate:       true
+      }).slideshow({ autoplay: true });
+  });
+</script>
+  </body>
+</html>

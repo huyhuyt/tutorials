@@ -1,0 +1,14 @@
+package org.kevin.Deep_seek;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DeepSeekApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(DeepSeekApplication.class, args);
+	}
+
+}

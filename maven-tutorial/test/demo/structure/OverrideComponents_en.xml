@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="1.0">
+    <component id="base" type="http://northernwind.tidalwave.it/component/NodeContainer/#v2.0">
+        <component id="topbar" type="http://northernwind.tidalwave.it/component/HorizontalMenu/#v1.0"/>
+        <component id="container" type="http://northernwind.tidalwave.it/component/Container/#v1.0">
+            <component id="hero" type="http://northernwind.tidalwave.it/component/HtmlFragment/#v1.0"/>
+            <component id="content" type="http://northernwind.tidalwave.it/component/Container/#v1.0">
+                <component id="row1" type="http://northernwind.tidalwave.it/component/HtmlTextWithTitle/#v1.0"/>
+                <component id="row2" type="http://northernwind.tidalwave.it/component/HtmlTextWithTitle/#v1.0"/>
+                <component id="row3" type="http://northernwind.tidalwave.it/component/HtmlTextWithTitle/#v1.0"/>
+                <component id="copyright" type="http://northernwind.tidalwave.it/component/HtmlFragment/#v1.0"/>
+            </component>
+        </component>
+    </component>
+</components>

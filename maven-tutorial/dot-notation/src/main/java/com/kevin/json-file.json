@@ -1,0 +1,41 @@
+[
+
+    {
+        "id" : "crypto",
+        "name" : "crypto-test",
+        "children" : [
+            {
+                "id" : "crypto1",
+                "name" : "crypto1-test"
+            },
+            {
+                "id" : "crypto1.1",
+                "name": "crypto1.1-test"
+            }
+        ]
+    },
+    {
+
+        "id" : "virtual",
+        "name" : "virtual-test",
+        "children" : [
+            {
+                "id" : "virtual1",
+                "name" : "virtual1-test",
+                "children" : [
+                    {
+                        
+                        "id" : "virtual1.1",
+                        "name" : "virtual1.1-test"
+                    },
+                    {
+                        "id" : "virtual1.2",
+                        "name" : "virtual1.2-test"
+                    }
+                ]
+            }
+        ]
+    }
+
+]
+    

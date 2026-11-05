@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--
+    <bean id="airtel" class="com.kevin.springioc.Airtel">  
+        
+    </bean>
+
+    <bean id="vodaphone" class="com.kevin.springioc.Vodaphone">
+        
+    </bean>
+    <bean id="sim" class="com.kevin.springioc.Vodaphone">
+        
+    </bean>
+    <bean id="student" class="com.kevin.springioc.Student">
+     <property name="studentName" value="kevin Nguyen" />
+     <property name="id" value="1" />
+    </bean>
+
+    <bean id="kim" class="com.kevin.springioc.Student">
+     <property name="studentName" value="Kim Hoang" />
+     <property name="id" value="2"/>
+    </bean>
+    -->
+<!-- 
+    <bean id="student" class="com.kevin.springioc.Student">
+    <constructor-arg name="studentName" value="Kevin Nguyen" />
+    <constructor-arg name="id" value="1" />
+    </bean>
+    <bean id="mc" class="com.kevin.springioc.MathCheat">
+    </bean> -->
+
+    <bean id="mcDemo" class="com.kevin.springioc.MathCheat">
+    </bean>
+
+    <!-- <bean id="stu" class="com.kevin.springioc.Student">
+      <property name="id" value="1001">
+      </property>
+      <property name="mc" >
+        <bean class="com.kevin.springioc.MathCheat">
+        </bean>
+      </property>
+    </bean> -->
+    <bean id="stu" class="com.kevin.springioc.Student">
+      <property name="id" value="1001" />
+      <property name="mc" ref="mcDemo"/>
+    </bean>
+
+</beans>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<properties version="1.0">
+    <property name="creationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="description">
+        <value>Blog</value>
+    </property>
+    <property name="exposedUri">
+        <value>blog</value>
+    </property>
+    <property name="latestModificationDateTime">
+        <value>2012-02-01T20:00:00.000+01:00</value>
+    </property>
+    <property name="managesPathParams">
+        <value>true</value>
+    </property>
+    <property name="navigationLabel">
+        <value>Blog</value>
+    </property>
+    <property name="title">
+        <value>Blog</value>
+    </property>
+    <properties id="main">
+        <property name="contents">
+            <values>
+                <value>/Blog</value>
+            </values>
+        </property>
+        <property name="full">
+            <value>true</value>
+        </property>
+        <property name="maxFullItems">
+            <value>1</value>
+        </property>
+        <property name="maxItems">
+            <value>1</value>
+        </property>
+        <property name="maxLeadInItems">
+            <value>0</value>
+        </property>
+    </properties>
+    <properties id="blogCategories">
+        <property name="index">
+            <value>true</value>
+        </property>
+        <property name="links">
+            <values>
+                <value>/Blog/Developing</value>
+                <value>/Blog/Using</value>
+            </values>
+        </property>
+        <property name="title">
+            <value>Categories</value>
+        </property>
+    </properties>
+    <properties id="blogIndex">
+        <property name="contents">
+            <values>
+                <value>/Blog</value>
+            </values>
+        </property>
+        <property name="full">
+            <value>false</value>
+        </property>
+        <property name="index">
+            <value>true</value>
+        </property>
+        <property name="maxFullItems">
+            <value>0</value>
+        </property>
+        <property name="maxItems">
+            <value>99</value>
+        </property>
+        <property name="maxLeadInItems">
+            <value>0</value>
+        </property>
+        <property name="target">
+            <value>Blog</value>
+        </property>
+        <property name="title">
+            <value>Post index</value>
+        </property>
+    </properties>
+</properties>
